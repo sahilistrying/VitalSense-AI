@@ -45,20 +45,20 @@ The application follows a modular, component-driven architecture:
 ### Installation
 
 1.  **Clone the repository**
-    `ash
-    git clone [https://github.com/sahilistrying/VitalSense-AI.git](https://github.com/sahilistrying/VitalSense-AI.git)
+    ```bash
+    git clone https://github.com/sahilistrying/VitalSense-AI.git
     cd VitalSense-AI
-    `
+    ```
 
 2.  **Install Dependencies**
-    `ash
+    ```bash
     npm install
-    `
+    ```
 
 3.  **Run Development Server**
-    `ash
+    ```bash
     npm run dev
-    `
+    ```
     *The app will launch at http://localhost:5173*
 
 ---
